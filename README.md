@@ -73,13 +73,13 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 * Berikut tampilan utama aplikasi:
 
-![Tampilan Web Utama](public/assets/screenshots/1.png "Screenshot Tampilan Awal")
+![Tampilan Web Utama](public/assets/screenshot/1.png "Screenshot Tampilan Awal")
 
 * Tampilan tentang saya:
 
-![Tampilan Tentang Saya](public/assets/screenshots/2.png)
+![Tampilan Tentang Saya](public/assets/screenshot/2.png)
 
 * Tampilan skill:
 
-![Tampilan Skill](public/assets/screenshots/3.PNG)
+![Tampilan Skill](public/assets/screenshot/3.PNG)
 
